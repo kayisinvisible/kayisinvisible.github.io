@@ -15,6 +15,7 @@ nav {
    margin-bottom: 20px;
     display: flex;
     padding: 10px;
+    border-radius: 20px;
 }
 h1 {
     display: flex;
@@ -39,6 +40,7 @@ a {
 main {
     background: rgb(6, 242, 226);
     display: flex;
+    border-radius: 20px;
 }
 .sidebar {
     margin-right: 25px;
@@ -54,7 +56,7 @@ main {
 
 /* portfolio styles */
 #interests {
-    border: 4px silver ridge;
+    border: 4px rgb(90, 230, 240) ridge;
     padding: 8px;
 }
 h2, h3 {
@@ -62,7 +64,7 @@ h2, h3 {
 }
          /* portfolio styles */
          .content h1 {
-            color: black;
+            color: rgb(211, 33, 220);
         }
 
         #portfolio {
@@ -71,7 +73,7 @@ h2, h3 {
         }
 
         #portfolio li {
-            background: #fff;
+            background: #4039c1;
             padding: 10px;
             border-radius: 10px;
             margin-bottom: 10px;
